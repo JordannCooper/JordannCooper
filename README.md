@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Jordan Cooper
 
-[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/paulmcquad/)](https://twitter.com/paulmcquad)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulmcquad/)](https://www.linkedin.com/in/paulmcquad/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/paulmcquad/)](https://twitter.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulmcquad/)](https://www.linkedin.com/in/jordan-cooper-9b538b309/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)](https://chat.whatsapp.com/)
 
 My name is Jordan Cooper. I live in UK . 
 
-I'm a open source / Linux developer and mentor.👋
+I'm a DevOps Engineer | AWS | docker | k8s | Jenkins | Ansible.👋
 
 Secure Email Me:
 Email: jordan-cooper@mccoimbe.co.uk
